@@ -1,3 +1,4 @@
+### Turn on strict typing
 Certainly! Let's dive into enabling strict typing in TypeScript and exploring the concepts of types and interfaces.
 
 ### Enabling Strict Typing in TypeScript

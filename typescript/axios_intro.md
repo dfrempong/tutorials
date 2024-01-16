@@ -1,3 +1,4 @@
+### Creating a network client
 Absolutely! Let's structure the guide with an introduction section and provide new insights in the notes:
 
 ### Introduction

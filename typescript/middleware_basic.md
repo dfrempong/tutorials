@@ -1,4 +1,5 @@
-### Step 1: Explore TypeScript Interfaces
+### Error middleware, interfaces, types, and enums
+#### Step 1: Explore TypeScript Interfaces
 
 Let's create a TypeScript interface for our custom error handling middleware. Create a new file `interfaces.ts`:
 

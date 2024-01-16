@@ -1,3 +1,5 @@
+### Creating a typescript repo
+
 Certainly! Let's walk through the process of initializing a basic TypeScript repository step by step. We'll set `strict` to `false` for now, and I'll provide notes on what setting it to `true` would achieve.
 
 ### Step 1: Create a New Directory
